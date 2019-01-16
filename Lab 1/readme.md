@@ -1,4 +1,4 @@
-#Laboratory 1#
+# Laboratory 1
 *Task* <br>
 To implement 3 creational patterns. I have chosen to implement Abstract Factory, Builder and Factory Method. <br><br>
 **Abstract Factory** <br>
